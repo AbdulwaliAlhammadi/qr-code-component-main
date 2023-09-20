@@ -20,9 +20,7 @@ This web-based QR Code Component was created as a challenge from Frontend Mentor
 
 Users should be able to:
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states the button element on the page
-
+- View the optimal layout for the giving design 
 ### Screenshot
 
 
